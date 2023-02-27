@@ -877,6 +877,7 @@ section {
 .call-to-action p {
   color: #fff;
   margin-bottom: 20px;
+  font-size: large;
 }
 
 .call-to-action .play-btn {
@@ -2129,7 +2130,7 @@ section {
 .hero {
   width: 100%;
   position: relative;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/navbar55.jpeg") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/hero.jpg") center center;
   /* background-image: url("../img/navbar22.jpg"); */
   /* background: var(--color-primary); */
   background-size: cover;
