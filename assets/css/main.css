@@ -68,7 +68,8 @@ section {
 }
 
 .sections-bg {
-  background-color: #fbdf64;
+  /* background-color: #fbdf64; */
+  background-color: #18f757;
 }
 
 .section-header {
@@ -305,7 +306,7 @@ section {
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
-  background-color: #017f36;
+  background-color: #23a948;
 }
 
 .header.sticked {
